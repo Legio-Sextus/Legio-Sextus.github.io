@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Legio VI Victrix &ndash; Sydney Australia &ndash; Members</title>
+  <link rel="stylesheet" href="style.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap" rel="stylesheet">
+
+
+</head>
+
+<body>
+
+
+<h1>Centurio</h1>
+<img src="images/legio-vi-member-jason.jpg" class="headshot">
+
+<h1>Signifer</h1>
+<img src="images/legio-vi-member-travis.jpg" class="headshot">
+
+<h1>Tesserarius</h1>
+<img src="images/legio-vi-member-marie-anne.jpg" class="headshot">
+
+<h1>Medicus</h1>
+<img src="images/legio-vi-member-steve.jpg" class="headshot">
+
+<h1>Fabricatus</h1>
+<img src="images/legio-vi-member-will.jpg" class="headshot">
+
+<h1>Milites</h1>
+<img src="images/legio-vi-member-dale.jpg" class="headshot">
+<img src="images/legio-vi-member-matt.jpg" class="headshot">
+<img src="images/legio-vi-member-david.jpg" class="headshot">
+<img src="images/legio-vi-member-magnus.jpg" class="headshot">
+<img src="images/legio-vi-member-dejan.jpg" class="headshot">
+<img src="images/legio-vi-member-stevie.jpg" class="headshot">
+<img src="images/legio-vi-member-jade.jpg" class="headshot">
+
+<h1>Civilians</h1>
+<img src="images/legio-vi-member-laura.jpg" class="headshot">
+<img src="images/legio-vi-member-zara.jpg" class="headshot">
+
+<!--
+<h1>Veterans</h1>
+<img src="images/legio-vi-member-dae.jpg" class="headshot">
+<img src="images/legio-vi-member-alex.jpg" class="headshot">
+-->
+
+
+</body>
+</html>
