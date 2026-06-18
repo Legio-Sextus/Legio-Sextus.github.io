@@ -1,0 +1,33 @@
+m4_include(header.m4)
+
+<pre>
+Activities
+    + Military drills
+      - Marching
+      - Formations
+      - Combat drills
+    + Food and cooking
+      - Ingredients
+      - Dishes
+    + Games and Gambling
+    + Textiles
+      - Spinning
+      - Nalbinding
+    + Blacksmithing
+      - Anvil
+      - Forge
+      - Bellows
+      - Tools
+    + Leatherworking
+      - Tools
+      - Bags
+    + Woodworking
+      - Workbench
+      - Lathe
+      - Tools
+    + Armouring
+      - Scuta
+      - Pila
+</pre>
+
+m4_include(footer.m4)

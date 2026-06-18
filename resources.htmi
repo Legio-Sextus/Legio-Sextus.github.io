@@ -1,0 +1,7 @@
+m4_include(header.m4)
+
+<h1>Resources</h1>
+
+<i>tbd</i>
+
+m4_include(footer.m4)

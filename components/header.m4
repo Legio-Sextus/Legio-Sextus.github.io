@@ -38,6 +38,10 @@
     <a href="https://www.youtube.com"><i class="fa fa-youtube-play" aria-hidden="true"></i>&nbsp;&nbsp;LegioSextvsVictrix</a><br>
   </div>
 
+  <div class="header-image">
+    <img src="images/legio-vi-vex-tent.jpg" height="150">
+  </div>
+  
   <h1>Legio VI Victrix</h1>
   <h2>Sydney Australia</h2>
 
@@ -47,7 +51,7 @@
     <div class="menu-item"><a href="events.html">Events</a></div>
     <div class="menu-item"><a href="activities.html">Activities</a></div>
     <div class="menu-item"><a href="projects.html">Projects</a></div>
-    <div class="menu-item"><a href="members.htmi">Members</a></div>
+    <div class="menu-item"><a href="members.html">Members</a></div>
     <div class="menu-item"><a href="resources.html">Resources</a></div>
     <div class="menu-item"><a href="links.html">Links</a></div>
     <div class="menu-item"><a href="contact.html">Contact</a></div>

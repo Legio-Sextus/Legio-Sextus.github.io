@@ -1,38 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Legio VI Victrix &ndash; Sydney Australia &ndash; Events</title>
-
-  <!-- Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap" rel="stylesheet">
-
-  <link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-  <div class="social-links">
-    <a href="mailto:sydneylegiovivictrix@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;sydneylegiovivictrix@gmail.com</a><br>
-    <a href="https://www.facebook.com/LegioVIVictrixSydney"><i class="fa fa-facebook-square" aria-hidden="true"></i>&nbsp;&nbsp;LegioVIVictrixSydney</a><br>
-    <a href="https://www.instagram.com/sydvi_victrix/"><i class="fa fa-instagram" aria-hidden="true"></i>&nbsp;&nbsp;sydvi_victrix</a><br>
-    <a href="https://www.youtube.com"><i class="fa fa-youtube-play" aria-hidden="true"></i>&nbsp;&nbsp;LegioSextvsVictrix</a><br>
-  </div>
-
-  <h1>Legio VI Victrix</h1>
-  <h2>Sydney Australia</h2>
-
-  <div class="menu">
-    <div class="menu-item"><a href="index.htmi">Home</a></div>
-    <div class="menu-item"><a href="legion.htmi">Legio VI</a></div>
-    <div class="menu-item"><a href="events/index.htmi">Events</a></div>
-    <div class="menu-item"><a href="">Activities</a></div>
-    <div class="menu-item"><a href="">Projects</a></div>
-    <div class="menu-item"><a href="members.htmi">Members</a></div>
-    <div class="menu-item"><a href="">Resources</a></div>
-    <div class="menu-item"><a href="links.htmi">Links</a></div>
-    <div class="menu-item"><a href="">Contact</a></div>
-  </div>
+m4_include(header.m4)
 
 <h1>Upcoming Events</h1>
 
@@ -76,6 +42,4 @@
 <h2>2019</h2>
 <h2>2018</h2>
 
-    <div class="footer">Copyright &copy; 2026 Legio VI Victrix Sydney</div>
-  </body>
-</html>
+m4_include(footer.m4)

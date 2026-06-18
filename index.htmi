@@ -1,5 +1,5 @@
 m4_include(header.m4)
 
-<img src="images/legio-vi-hero.jpg" width="90%">
+<img src="images/legio-vi-hero.jpg" width="90%" class="hero-image">
 
 m4_include(footer.m4)

@@ -1,0 +1,19 @@
+m4_include(header.m4)
+
+<h1>Projects</h1>
+
+<p> In addition to our reenactment activities, we have a few
+  longer-term research projects into various aspects of Roman life.
+  We collaborate with other reenactors and groups, academic
+  archeologists, heritage trades and crafts people, and others to
+  explore topics of interest.
+
+
+<h2>Artillery<h2>
+
+<h2>Bending and Breaking of Roman Pila</h2>
+
+<h2>Roman Forging and Metalworking</h2>
+
+
+m4_include(footer.m4)

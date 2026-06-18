@@ -1,16 +1,18 @@
+m4_include(header.m4)
 
 <h1>Legio VI Victrix in History</h1>
 
 <p> The name "Legio VI", the Sixth Legion, can refer to two separate
-  armies.  The first was raised by Gaius Julius Caesar in Gaul in 52
-  BC and fought in the Gallic Wars, the Caesarian Civil War, and
-  then later in Judea and Syria.  In about 48 BC, it earned the title
-  <em>Ferrata</em> ("Ironsides").  A second, and largely if not
-  entirely different group of troops, was raised in 41 BC by Octavian.
-  The two sixth legions both fought in the Battle of Actium, which saw
-  Antony defeated.  VI Ferrata's remaining troops moved to Judea and
-  Syria, while Octavian's Legio VI returned to Hispania.  Some time
-  before 60 AD, Octavian's Legio VI in Hispania was awarded the title
+  legions.  The first was raised by Gaius Julius Caesar in Gaul in 52
+  BC and fought in the Gallic Wars, the Caesarian Civil War, and then
+  later in Judea and Syria.  In about 48 BC, it earned the title
+  <em>Ferrata</em> ("Ironsides").  A second Legio VI, a largely if not
+  entirely different set of troops, was raised in 41 BC by Octavian.
+  The two sixth legions fought on different sides in the Battle of
+  Actium, which saw Antony (and Legio VI Ferrata) defeated.  VI
+  Ferrata's remaining troops moved to Judea and Syria, while
+  Octavian's Legio VI returned to Hispania.  Some time before 60 AD,
+  Octavian's Legio VI in Hispania was awarded the title
   <em>Victrix</em>, and it is this legion that we reenact.
 
 
@@ -38,14 +40,14 @@
   </tr>
 
   <tr>
-    <td>48 BC, 10 July</td>
+    <td>48 BC, 10&nbsp;July</td>
     <td>Dyrrhachium</td>
     <td>Fought in the Battle of Dyrrhachium.</td>
     <td></td>    
   </tr>
 
   <tr>
-    <td>48 BC, 9th August</td>
+    <td>48 BC, 9&nbsp;August</td>
     <td>Pharsalus</td>
     <td>Fought in Battle of Pharsalus</td>
     <td></td>    
@@ -60,14 +62,14 @@
   </tr>
 
   <tr>
-    <td>47 BC, 2 August</td>
+    <td>47 BC, 2&nbsp;August</td>
     <td>Pontus</td>
     <td>Fought in Battle of Zela</td>
     <td></td>    
   </tr>
 
   <tr>
-    <td>45 BC, 17 March</td>
+    <td>45 BC, 17&nbsp;March</td>
     <td>Munda (near La Lantejuela, Spain)</td>
     <td></td>
     <td></td>    
@@ -103,21 +105,21 @@
   <tr>
     <td>41 BC</td>
     <td></td>
-    <td>Remaining (not retired) VI Ferrata troops taken east by Marcus Antonius</td>
+    <td>Those VI Ferrata  troops who chose not to retire are taken east by Marcus Antonius</td>
     <td></td>    
   </tr>
 
   <tr>
     <td>41 BC</td>
     <td></td>
-    <td>Second Legio VI also from Hispania saw action at Perusia.  Probably a legion newly raised by Octavian, possibly around a core of VI Ferrata veterans</td>
+    <td>Octavian raises a second Legio VI as a copy of the Caesarian Legio VI, which was serving under Marcus Antonius.  It's possible some veterans of the Caesarian legion joinied the newly raised unit.  It first saw action in the Battle of Perusia, attested by slingstones marked with the legion's mark.</td>
     <td></td>    
   </tr>
 
   <tr>
     <td>31 BC</td>
     <td>Actium</td>
-    <td>Marcus Antonius' forces including Legio VI Ferrata defeated by Octavian's forces, including Legio VI Hispaniensis.  A veterens colony was established at Byllis, with some from VI Ferrata, while the remainder were moved to Syria.  VI Victrix retutned to Hispania.</td>
+    <td>Marcus Antonius' forces including Legio VI Ferrata defeated by Octavian's forces, including Legio VI Hispaniensis.  A veterans colony was established at Byllis, with some from VI Ferrata, while the remainder were moved to Syria.  VI Victrix returned to Hispania.</td>
     <td></td>    
   </tr>
 
@@ -131,7 +133,7 @@
   <tr>
     <td>19 BC</td>
     <td></td>
-    <td>Colonia Caesarea Augusta (now Zaragoza) founded by veterans' from IV, VI, and X.</td>
+    <td>Colonia Caesarea Augusta (now Zaragoza) founded by veterans' from Legio IV, VI, and X.</td>
     <td></td>    
   </tr>
 
@@ -146,7 +148,7 @@
     <td>63 AD</td>
     <td></td>
     <td>The "Victrix" title was awarded sometime before this.</td>
-    <td></td>    
+    <td></td>
   </tr>
 
 
@@ -389,3 +391,4 @@ issued for all legions stationed in Britannia. The islands were
 instructed to look to their own defence, and the shore forts that had
 held the intentions of the Saxons in check were now abandoned.
 
+m4_include(footer.m4)

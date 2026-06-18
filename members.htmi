@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Legio VI Victrix &ndash; Sydney Australia &ndash; Members</title>
-  <link rel="stylesheet" href="style.css">
-
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap" rel="stylesheet">
-
-
-</head>
-
-<body>
-
+m4_include(header.m4)
 
 <h1>Centurio</h1>
 <img src="images/legio-vi-member-jason.jpg" class="headshot">
@@ -48,6 +34,4 @@
 <img src="images/legio-vi-member-alex.jpg" class="headshot">
 -->
 
-
-</body>
-</html>
+m4_include(footer.m4)
