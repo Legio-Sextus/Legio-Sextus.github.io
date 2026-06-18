@@ -10,9 +10,46 @@ body {
 
 body h1 {
     font-weight: 700;
-
 }
 
 body img {
-    padding: 2em;
+    padding-bottom: 2em;
+    width: 100%;
+}
+
+.footer {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    font-size: x-small;
+}
+
+.social-links {
+    float: right;
+
+    font-size: 
+}
+
+.social-links :any-link {
+    color: black;
+    text-decoration: none;
+}
+
+.menu {
+    display: flex;
+    margin: auto;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.menu-item {
+    margin-left: 0em;
+    maragin-right: 0em;
+}
+
+.menu-item a {
+    text-decoration: none;
 }
