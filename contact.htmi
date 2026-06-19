@@ -2,5 +2,16 @@ m4_include(header.m4)
 
 <h1>Contact</h1>
 
+<div class="contact-map">
+<a href="https://www.openstreetmap.org/#map=18/-33.762619/150.861232"><img src="images/nurragingy-reserve-location-map.jpg"></a>
+</div>
+
+<p>Legio VI Victrix is based in Western Sydney, Australia.
+
+<p>Our home event is the annual <a href="https://www.blacktown.nsw.gov.au/festival/Whats-on/Blacktown-City-Medieval-Fayre">Blacktown Medieval Fayre</a>.
+
+<p>Contact the legion via email at <a
+href="mailto:sydneylegiovivictrix@gmail.com">sydneylegiovivictrix@gmail.com</a>,
+or via our social media links at the top of the page.
 
 m4_include(footer.m4)

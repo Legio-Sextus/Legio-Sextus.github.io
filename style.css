@@ -22,6 +22,8 @@ body h1 {
     margin: auto;
     text-align: center;
     font-size: x-small;
+    padding-top: 2em;
+    clear: both;
 }
 
 .social-links {
@@ -57,4 +59,14 @@ body h1 {
 
 .menu-item a {
     text-decoration: none;
+}
+
+.contact-map {
+    float: left;
+    width: 30%;
+}
+
+.contact-map a img {
+    padding-left: 2em;
+    width: 80%;
 }
