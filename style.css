@@ -70,3 +70,17 @@ body h1 {
     padding-left: 2em;
     width: 80%;
 }
+
+.carousel {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.carousel-thumbnail {
+    padding: 0.5em;
+}
+
+.carousel-thumbnail img {
+    height: 250px;
+}

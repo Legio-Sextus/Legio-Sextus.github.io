@@ -2,7 +2,7 @@
 %.html: %.htmi
 	m4 -P -I components $< > $@
 
-SRCS := $(wildcard *.htmi) 
+SRCS := $(wildcard *.htmi) $(wildcard  events/*/index.htmi)
 HTMLS := $(patsubst %.htmi,%.html,$(SRCS))
 
 all: $(HTMLS) components/header.m4 components/footer.m4
