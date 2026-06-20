@@ -1,16 +1,27 @@
 name: Publish
 on: [push]
 jobs:
-  Generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Triggered by a ${{ github.event_name }} event"
-      - run: echo "Running on a ${{ runner.os }}"
-      - run: echo "Branch ${{ github.ref }}"
-      - run: echo "Repo ${{ github.repository }}"
-      - name: Check out repo
+      - name: build static files
+        id: build
         uses: actions/checkout@v6
-      - run: echo "${{ github.repository }} repo cloned"
-      - name: Generate files
-        run: make
-      - run: echo "Status ${{ job.status }}"
+        run: make && make install
+
+     - name: upload static files as artifact
+        id: deployment
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: target/
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
