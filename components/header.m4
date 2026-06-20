@@ -32,7 +32,7 @@
 
 <body>
   <div class="social-links">
-    <a href="mailto:sydneylegiovivictrix@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;sydneylegiovivictrix@gmail.com</a><br>
+    <a href="mailto:sydneylegiovictrix@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;sydneylegiovictrix@gmail.com</a><br>
     <a href="https://www.facebook.com/LegioVIVictrixSydney"><i class="fa fa-facebook-square" aria-hidden="true"></i>&nbsp;&nbsp;LegioVIVictrixSydney</a><br>
     <a href="https://www.instagram.com/sydvi_victrix/"><i class="fa fa-instagram" aria-hidden="true"></i>&nbsp;&nbsp;sydvi_victrix</a><br>
     <a href="https://www.youtube.com/@LegioSextvsVictrix"><i class="fa fa-youtube-play" aria-hidden="true"></i>&nbsp;&nbsp;LegioSextvsVictrix</a><br>
