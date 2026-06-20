@@ -17,17 +17,17 @@ m4_include(header.m4)
 <img src="images/legio-vi-member-will.jpg" class="headshot">
 
 <h1>Milites</h1>
-<img src="images/legio-vi-member-dale.jpg" class="headshot">
+<!-- <img src="images/legio-vi-member-dale.jpg" class="headshot"> -->
 <img src="images/legio-vi-member-matt.jpg" class="headshot">
 <img src="images/legio-vi-member-david.jpg" class="headshot">
 <img src="images/legio-vi-member-magnus.jpg" class="headshot">
 <img src="images/legio-vi-member-dejan.jpg" class="headshot">
 <img src="images/legio-vi-member-stevie.jpg" class="headshot">
-<img src="images/legio-vi-member-jade.jpg" class="headshot">
+<!-- <img src="images/legio-vi-member-jade.jpg" class="headshot"> -->
 
 <h1>Civilians</h1>
 <img src="images/legio-vi-member-laura.jpg" class="headshot">
-<img src="images/legio-vi-member-zara.jpg" class="headshot">
+<!-- <img src="images/legio-vi-member-zara.jpg" class="headshot"> -->
 
 <!--
 <h1>Veterans</h1>
