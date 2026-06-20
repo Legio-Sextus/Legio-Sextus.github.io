@@ -27,7 +27,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap" rel="stylesheet">
 
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="ROOT`style.css'">
 </head>
 
 <body>
@@ -35,25 +35,25 @@
     <a href="mailto:sydneylegiovivictrix@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;sydneylegiovivictrix@gmail.com</a><br>
     <a href="https://www.facebook.com/LegioVIVictrixSydney"><i class="fa fa-facebook-square" aria-hidden="true"></i>&nbsp;&nbsp;LegioVIVictrixSydney</a><br>
     <a href="https://www.instagram.com/sydvi_victrix/"><i class="fa fa-instagram" aria-hidden="true"></i>&nbsp;&nbsp;sydvi_victrix</a><br>
-    <a href="https://www.youtube.com"><i class="fa fa-youtube-play" aria-hidden="true"></i>&nbsp;&nbsp;LegioSextvsVictrix</a><br>
+    <a href="https://www.youtube.com/@LegioSextvsVictrix"><i class="fa fa-youtube-play" aria-hidden="true"></i>&nbsp;&nbsp;LegioSextvsVictrix</a><br>
   </div>
 
   <div class="header-image">
-    <img src="images/legio-vi-vex-tent.jpg" height="150">
+    <img src="ROOT`images/legio-vi-vex-tent.jpg'" height="150">
   </div>
   
   <h1>Legio VI Victrix</h1>
   <h2>Sydney Australia</h2>
 
   <div class="menu">
-    <div class="menu-item"><a href="index.html">Home</a></div>
-    <div class="menu-item"><a href="legion.html">Legio VI</a></div>
-    <div class="menu-item"><a href="events.html">Events</a></div>
-    <div class="menu-item"><a href="activities.html">Activities</a></div>
-    <div class="menu-item"><a href="projects.html">Projects</a></div>
-    <div class="menu-item"><a href="members.html">Members</a></div>
-    <div class="menu-item"><a href="resources.html">Resources</a></div>
-    <div class="menu-item"><a href="links.html">Links</a></div>
-    <div class="menu-item"><a href="contact.html">Contact</a></div>
+    <div class="menu-item"><a href="ROOT`index.html'">Home</a></div>
+    <div class="menu-item"><a href="ROOT`activities.html'">Activities</a></div>
+    <div class="menu-item"><a href="ROOT`events.html'">Events</a></div>
+    <div class="menu-item"><a href="ROOT`projects.html'">Projects</a></div>
+    <div class="menu-item"><a href="ROOT`members.html'">Members</a></div>
+    <div class="menu-item"><a href="ROOT`legion.html'">Legio VI History</a></div>
+    <div class="menu-item"><a href="ROOT`resources.html'">Resources</a></div>
+    <div class="menu-item"><a href="ROOT`links.html'">Links</a></div>
+    <div class="menu-item"><a href="ROOT`contact.html'">Contact</a></div>
   </div>
 

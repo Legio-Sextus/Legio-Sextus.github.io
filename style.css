@@ -61,6 +61,21 @@ body h1 {
     text-decoration: none;
 }
 
+.project-left-image {
+    float: left;
+    height: 300px;
+    padding-right: 1em;
+    padding-bottom: 1em;
+}
+
+.quote {
+    font-style: italic;
+}
+
+.project {
+    clear: both;
+}
+
 .contact-map {
     float: left;
     width: 30%;

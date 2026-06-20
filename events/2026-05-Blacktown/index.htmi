@@ -1,4 +1,4 @@
-m4_define(ROOT,`../../')
+m4_define(ROOT, `../../')
 m4_define(THUMB,`<a class="carousel-thumbnail" href="$1"><img src="$1"></a>')
 
 m4_include(header.m4)
@@ -92,6 +92,6 @@ m4_include(header.m4)
   THUMB(1d49f874-93c7-4d2f-a7d9-e10f90f129a6.mov)
 -->
 
-
 </div>
+
 m4_include(footer.m4)

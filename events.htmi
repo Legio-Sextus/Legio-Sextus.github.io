@@ -1,10 +1,20 @@
+m4_define(ROOT, `')
 m4_include(header.m4)
 
 <h1>Upcoming Events</h1>
 
-<h3><a href="https://winterfest.com.au/">Winterfest 2026</a></h3>
+<h3><a href="https://winterfest.com.au/">Winterfest</a></h3>
 <div>4-5 July 2026</div>
 <div>Hawkesbury Showgrounds, Claredon NSW</div>
+
+<h3><a href="https://www.eventsandfestivalsaustralia.com/newcastle-medieval-fair">Newcastle Medieval Festival</a></h3>
+<div>5-6 September 2026</div>
+<div>Foreshore Park, Newcastle NSW</div>
+
+<h3><a href="https://www.eventsandfestivalsaustralia.com/queanbeyan-medieval-fair">Queanbeyan Medieval Fair</a></h3>
+<div>26-27 September 2026</div>
+<div>Queanbeyan Showgrounds, Queanbeyan NSW</div>
+
 
 <h1>Past Events</h1>
 
