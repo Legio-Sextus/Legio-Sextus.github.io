@@ -1,0 +1,16 @@
+name: Publish
+on: [push]
+jobs:
+  Generate:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Triggered by a ${{ github.event_name }} event"
+      - run: echo "Running on a ${{ runner.os }}"
+      - run: echo "Branch ${{ github.ref }}"
+      - run: echo "Repo ${{ github.repository }}"
+      - name: Check out repo
+        uses: actions/checkout@v6
+      - run: echo "${{ github.repository }} repo cloned"
+      - name: Generate files
+        run: make
+      - run: echo "Status ${{ job.status }}"
