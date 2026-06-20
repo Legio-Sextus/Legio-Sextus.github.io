@@ -6,8 +6,7 @@ jobs:
         id: build
         uses: actions/checkout@v6
         run: make && make install
-
-     - name: upload static files as artifact
+      - name: upload static files as artifact
         id: deployment
         uses: actions/upload-pages-artifact@v3
         with:
