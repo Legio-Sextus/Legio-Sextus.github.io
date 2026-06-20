@@ -1,3 +1,4 @@
+m4_define(ROOT, `')
 m4_include(header.m4)
 
 <h1>Projects</h1>
@@ -9,13 +10,56 @@ m4_include(header.m4)
   explore topics of interest.
 
 
-<h2>Baking Panus Quadratus</h2>
+<h2 class="project">Panis Quadratus</h2>
 
-<h2>Artillery<h2>
+<img class="project-left-image" src="images/panis-quadratus-pompeii.jpg">
 
-<h2>Bending and Breaking of Roman Pila</h2>
+<p><i>Panis quadratus</i> is a Roman bread, baked as a circular load,
+with eight divisions marked on the top for easy division.  We have
+sculptures, murals, and actual carbonised loaves from Pompeii showing
+this bread, and recipes from multiple sources.  However, the recipes
+aren't as precise as they are today, and determining the exact
+ingredients and quantities to be used is difficult.
 
-<h2>Roman Forging and Metalworking</h2>
+<p>This is a long-term project, doing ongoing experimentation with
+different grains, quantities, and cooking methods.  This is a popular
+experimental archeology topic, with many others interested across the
+world from both academia and the enthusiast communities.
+
+
+<h2 class="project">Artillery<h2>
+
+<h2 class="project">Pilum Rivets</h2>
+
+<img class="project-left-image" src="images/pilum-shield-1.jpg">
+
+<p>The Roman <i>pilum</i> is a heavy javelin, with a small
+armour-piercing head, a long iron shank, and a heavy wooden shaft.
+The design evolved over its period of use, but in one design, the
+wooden shaft and the long iron shank were joined by rivets.
+
+<p>In Plutach's <i>The Life of Marius</i> is a quote:
+<div class="quote">
+And it is said that it was in preparation for this battle that
+Marius introduced an innovation in the structure of the javelin. Up to
+this time, it seems, that part of the shaft which was let into the
+iron head was fastened there by two iron nails; but now, leaving one
+of these as it was, Marius removed the other, and put in its place a
+wooden pin that could easily be broken. His design was that the
+javelin, after striking the enemy's shield, should not stand straight
+out, but that the wooden peg should break, thus allowing the shaft to
+bend in the iron head and trail along the ground, being held fast by
+the twist at the point of the weapon.
+</div>
+
+<p>Despite becoming a popular "fact" about Roman pila, whether this
+"innovation" actually occured has long been debated by historians and
+archeologists.  This project aims to investigate whether it would
+actually work by experimentation with various wooden pins, using pila
+\against both Roman and barbarian shields, and contribute our results
+to the debate.
+
+<h2 class="project">Roman Forging and Metalworking</h2>
 
 
 
