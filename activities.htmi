@@ -1,12 +1,40 @@
 m4_define(ROOT, `')
 m4_include(header.m4)
 
-<pre>
-Activities
+<p>The Legion undertakes a wide range of activities, researching,
+exploring, reenacting, and teaching many aspects of Roman life.  The
+choice of activity is driven by the members' personal interests, with
+some choosing to present a public display during out events.
+
+<h2>Military Drills and Tactics</h2>
+
+<p>The Imperial Roman army was an outstanding combat force.  It was
+well trained, armed, and provisioned, but above all, operated using
+group tactics, rather than as a collection of skilled (or less
+skilled) individuals.
+
+<p>Our <i>milites</i> (soldiers) train for and demonstrate Roman
+marching drill (complete with Latin commands from the
+<i>centurio</i>); use of weapons including the sword, shield, and
+javelin; and combat formations for advancing under fire and attacks by
+cavalry.
+
+
+<h2>Food and Cooking</h2>
+
+
+<h2>Medical Treatments and Instruments</h2>
+<h2>Games and Gambling</h2>
+<h2>Textiles</h2>
+<h2>Blacksmithing</h2>
+
+
+<!--
     + Military drills
       - Marching
       - Formations
       - Combat drills
+    + Medicus
     + Food and cooking
       - Ingredients
       - Dishes
@@ -29,6 +57,6 @@ Activities
     + Armouring
       - Scuta
       - Pila
-</pre>
+-->
 
 m4_include(footer.m4)
