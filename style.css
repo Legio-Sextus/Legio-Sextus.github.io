@@ -99,3 +99,12 @@ body h1 {
 .carousel-thumbnail img {
     height: 250px;
 }
+
+table.timeline tr th {
+    text-align: start;
+}
+
+table.timeline tr td {
+    padding-bottom: 0.5em;
+    vertical-align: top;
+}

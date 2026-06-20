@@ -17,7 +17,7 @@ m4_include(header.m4)
   <em>Victrix</em>, and it is this legion that we reenact.
 
 
-<table>
+<table class="timeline">
 
   <tr>
     <th>Period</th>
@@ -29,43 +29,43 @@ m4_include(header.m4)
   <tr>
     <td>52 BC</td>
     <td>Cisalpine Gaul</td>
-    <td>Legion raised by Gaius Julius Caesar, to join Legio VII, VIII, IX, and X in the fight against Vercingetorix (V Alaudae also raised at this time).</td>
-    <td></td>    
+    <td><a href="https://en.wikipedia.org/wiki/Legio_VI_Victrix">Legio VI</a> was raised by <a href="https://en.wikipedia.org/wiki/Julius_Caesar">Gaius Julius Caesar</a>, to join <a href="https://en.wikipedia.org/wiki/Legio_VII_Claudia">Legio VII</a>, <a href="https://en.wikipedia.org/wiki/Legio_VIII_Augusta">VIII</a>, <a href="https://en.wikipedia.org/wiki/Legio_IX_Hispana">IX</a>, and <a href="https://en.wikipedia.org/wiki/Legio_X_Equestris">X</a> in the fight against <a href="https://en.wikipedia.org/wiki/Vercingetorix">Vercingetorix</a>.  <a href="https://en.wikipedia.org/wiki/Legio_V_Alaudae">Legio V Alaudae</a> was also raised around this time.</td>
+    <td></td>
   </tr>
 
   <tr>
     <td>49 BC, summer</td>
-    <td>Ilerda, Hispania</td>
-    <td>Fought in the Battle of Ilerda.</td>
+    <td><a href="https://en.wikipedia.org/wiki/Lleida">Ilerda</a>, Hispania</td>
+    <td>Fought in the <a href="https://en.wikipedia.org/wiki/Battle_of_Ilerda">Battle of Ilerda</a>.</td>
     <td></td>    
   </tr>
 
   <tr>
     <td>48 BC, 10&nbsp;July</td>
-    <td>Dyrrhachium</td>
-    <td>Fought in the Battle of Dyrrhachium.</td>
+    <td><a href="https://en.wikipedia.org/wiki/Durr%C3%ABs">Dyrrhachium</a>, Illyria</td>
+    <td>Fought in the <a href="https://en.wikipedia.org/wiki/Battle_of_Dyrrhachium_(48_BC)">Battle of Dyrrhachium</a>.</td>
     <td></td>    
   </tr>
 
   <tr>
     <td>48 BC, 9&nbsp;August</td>
-    <td>Pharsalus</td>
-    <td>Fought in Battle of Pharsalus</td>
+    <td><a href="https://en.wikipedia.org/wiki/Farsala">Pharsalus</a>, Greece</td>
+    <td>Fought in <a href="https://en.wikipedia.org/wiki/Battle_of_Pharsalus">Battle of Pharsalus</a></td>
     <td></td>    
   </tr>
 
  
   <tr>
     <td>48/47 BC</td>
-    <td></td>
+    <td>Alexandria, Eygpt</td>
     <td>Moved to Alexandria to settle dispute between Cleopatra and Ptolemy.  Lost two-thirds of its strength.  Earned "Ferrata" name.</td>
     <td></td>    
   </tr>
 
   <tr>
     <td>47 BC, 2&nbsp;August</td>
-    <td>Pontus</td>
-    <td>Fought in Battle of Zela</td>
+    <td><a href="https://en.wikipedia.org/wiki/Zile">Zela</a>, <a href="https://en.wikipedia.org/wiki/Kingdom_of_Pontus">Pontus</a> (Türkiye)</td>
+    <td>Fought in <a href="https://en.wikipedia.org/wiki/Battle_of_Zela_(47_BC)">Battle of Zela</a></td>
     <td></td>    
   </tr>
 
@@ -79,27 +79,27 @@ m4_include(header.m4)
   <tr>
     <td>45 BC</td>
     <td>Arelate (Arles) </td>
-    <td>Disbanded, with veterans settling at Colonia Iulia Paterna Arelatensium Sextanorum</td>
+    <td>Legio VI is disbanded, with veterans settling at <a href="https://en.wikipedia.org/wiki/Arles">Colonia Iulia Paterna Arelatensium Sextanorum</a></td>
     <td></td>  </tr>
 
   <tr>
     <td>44 BC</td>
     <td>?</td>
-    <td>Reformed by Marcus Aemilius Lepidus</td>
+    <td>Legio VI is reformed by <a href="https://en.wikipedia.org/wiki/Lepidus">Marcus Aemilius Lepidus</a></td>
     <td></td>    
   </tr>
 
   <tr>
     <td>43 BC</td>
     <td></td>
-    <td>Given by Lepidus to Marcus Antonius</td>
+    <td>Given by Lepidus to <a href="https://en.wikipedia.org/wiki/Mark_Antony">Marcus Antonius</a></td>
     <td></td>    
   </tr>
 
   <tr>
-    <td>42 BC</td>
-    <td>Philippi</td>
-    <td>Defeat of Cassius and Brutus at Philippi. A colony for veterans who wanted to retire was formed at Beneventum (Benevento, Italy).</td>
+    <td>42 BC, October</td>
+    <td><a href="https://en.wikipedia.org/wiki/Philippi">Philippi</a>, Macedonia</td>
+    <td>Defeat of Cassius and Brutus at <a href="https://en.wikipedia.org/wiki/Battle_of_Philippi">Philippi</a>. A colony for veterans who wanted to retire was formed at <a href="https://en.wikipedia.org/wiki/Benevento">Beneventum</a>.</td>
     <td></td>    
   </tr>
 
@@ -110,31 +110,37 @@ m4_include(header.m4)
     <td></td>    
   </tr>
 
+  <!-- Do we want more VI Ferrata history here? -->
+  
+  <tr><td>&nbsp;</td></tr>
+
+  <!-- Beginning of what becomes VI Victrix -->
+  
   <tr>
     <td>41 BC</td>
     <td></td>
-    <td>Octavian raises a second Legio VI as a copy of the Caesarian Legio VI, which was serving under Marcus Antonius.  It's possible some veterans of the Caesarian legion joinied the newly raised unit.  It first saw action in the Battle of Perusia, attested by slingstones marked with the legion's mark.</td>
+    <td><a href="https://en.wikipedia.org/wiki/Augustus">Gaius Octavius</a> (aka Octavian, and later Augustus) raises a second Legio VI as a copy of the Caesarian Legio VI, which was serving under Marcus Antonius.  It's possible some veterans of the Caesarian legion joinied the newly raised unit.  It first saw action in the <a href="https://en.wikipedia.org/wiki/Perusine_War">Battle of Perusia</a>, attested by slingstones marked with the legion's mark.</td>
     <td></td>    
   </tr>
 
   <tr>
     <td>31 BC</td>
     <td>Actium</td>
-    <td>Marcus Antonius' forces including Legio VI Ferrata defeated by Octavian's forces, including Legio VI Hispaniensis.  A veterans colony was established at Byllis, with some from VI Ferrata, while the remainder were moved to Syria.  VI Victrix returned to Hispania.</td>
+    <td>Marcus Antonius' forces including Legio VI Ferrata were defeated by Octavian's forces, including Legio VI Hispaniensis.  A veterans colony was established at <a href="https://en.wikipedia.org/wiki/Byllis">Byllis</a>, with some from VI Ferrata, while the remainder were moved to Syria.  VI Victrix returned to Hispania.</td>
     <td></td>    
   </tr>
 
   <tr>
     <td>27-13 BC</td>
     <td>Hispania</td>
-    <td>Augustus (Octavian) sent General Marcus Agrippa to Hispania to fight the Cantabrian and Asturian tribes with Legio VI Hispaniensis</td>
+    <td>Octavian sent <a href="https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa">General Marcus Agrippa</a> to Hispania to fight the Cantabrian and Asturian tribes with Legio VI Hispaniensis</td>
     <td></td>    
   </tr>
 
   <tr>
     <td>19 BC</td>
     <td></td>
-    <td>Colonia Caesarea Augusta (now Zaragoza) founded by veterans' from Legio IV, VI, and X.</td>
+    <td><a href="https://en.wikipedia.org/wiki/Caesaraugusta">Colonia Caesarea Augusta</a> (now Zaragoza) founded by veterans' from <a href="https://en.wikipedia.org/wiki/Legio_IV_Macedonica">Legio IV Macedonia</a>, VI Victrix, and <a href="https://en.wikipedia.org/wiki/Legio_X_Gemina">X Gemina</a>.</td>
     <td></td>    
   </tr>
 
@@ -204,7 +210,7 @@ m4_include(header.m4)
 
   <tr>
     <td></td>
-    <td>Eboracum</td>
+    <td><a href="https://en.wikipedia.org/wiki/Eboracum">Eboracum</a>, Britannia</td>
     <td>Vespasian set VI Victrix to build Hardrian's wall, including the Tyne Bridge at Pons Aelius (Newcastle).  VI Victrix build the eastern portion of the wall, and a temple to Neptune at Pns Aelius.  II Augusta and XX Valeria Victrix built the western part of the wall.</td>
     <td></td>    
   </tr>
@@ -212,7 +218,7 @@ m4_include(header.m4)
   <tr>
     <td>140 AD</td>
     <td></td>
-    <td>Vi Victrix, II Augusta, and XX Valeria Victrix built the Antonine Wall, abandonned about 160AD.  At some point, VI Victrix under command of Julius Verus, erected a dedication to Mars Ultor (the Avenger) at Corbridge.</td>
+    <td>Vi Victrix, II Augusta, and XX Valeria Victrix built the Antonine Wall, abandoned about 160AD.  At some point, VI Victrix under command of Julius Verus, erected a dedication to Mars Ultor (the Avenger) at Corbridge.</td>
     <td></td>    
   </tr>
 
@@ -232,7 +238,7 @@ m4_include(header.m4)
 
   <tr>
     <td>197-205AD</td>
-    <td>Eboracum</td>
+    <td>Eboracum, Britannia</td>
     <td>The city was overrun, and the wall in disrepair.  VI Victrix expelled the invaders, and rebuilt the wall.</td>
     <td></td>    
   </tr>
