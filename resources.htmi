@@ -5,7 +5,24 @@ m4_include(header.m4)
 
 <h2>Reenactment</h2>
 
-Legio XX's <a href="https://www.larp.com/legioxx/index.html">Handbook for Legionaries</a>
+<ul>
+<li>Legio XX's <a href="https://www.larp.com/legioxx/index.html">Handbook for Legionaries</a> is a great resource.
+</ul>
 
+
+<h2>Equipment</h2>
+
+<ul>
+<li><a href="">Medieval Fight Club</a>
+<li><a href="https://www.facebook.com/apexhandicrafts786">Apex Handicrafts</a>
+<li><a href="https://www.facebook.com/HabibiArmoury/">Habibi Armoury</a>
+<li><a href="https://www.facebook.com/levithevillageblacksmith/">The Village Blacksmith</a>
+</ul>
+
+<h2>Materials</h2>
+
+<ul>
+<li><a href="https://www.birdsall-leather.com.au/">Birdsall Leather</a>
+</ul>
 
 m4_include(footer.m4)
