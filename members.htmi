@@ -2,37 +2,64 @@ m4_define(ROOT, `')
 m4_include(header.m4)
 
 <h1>Centurio</h1>
-<img src="images/legio-vi-member-jason.jpg" class="headshot">
+<div class="headshot-div">
+  <img src="images/legio-vi-member-jason.jpg" class="headshot">
+</div>
 
 <h1>Signifer</h1>
-<img src="images/legio-vi-member-travis.jpg" class="headshot">
+<div class="headshot-div">
+  <img src="images/legio-vi-member-travis.jpg" class="headshot">
+</div>
 
 <h1>Tesserarius</h1>
-<img src="images/legio-vi-member-marie-anne.jpg" class="headshot">
+<div class="headshot-div">
+  <img src="images/legio-vi-member-marie-anne.jpg" class="headshot">
+</div>
 
 <h1>Medicus</h1>
-<img src="images/legio-vi-member-steve.jpg" class="headshot">
+<div class="headshot-div">
+  <img src="images/legio-vi-member-steve.jpg" class="headshot">
+</div>
 
 <h1>Fabricatus</h1>
-<img src="images/legio-vi-member-will.jpg" class="headshot">
+<div class="headshot-div">
+  <img src="images/legio-vi-member-will.jpg" class="headshot">
+</div>
 
 <h1>Milites</h1>
 <!-- <img src="images/legio-vi-member-dale.jpg" class="headshot"> -->
-<img src="images/legio-vi-member-matt.jpg" class="headshot">
-<img src="images/legio-vi-member-david.jpg" class="headshot">
-<img src="images/legio-vi-member-magnus.jpg" class="headshot">
-<img src="images/legio-vi-member-dejan.jpg" class="headshot">
-<img src="images/legio-vi-member-stevie.jpg" class="headshot">
+<div class="headshot-div">
+  <img src="images/legio-vi-member-matt.jpg" class="headshot">
+</div>
+<div class="headshot-div">
+  <img src="images/legio-vi-member-david.jpg" class="headshot">
+</div>
+<div class="headshot-div">
+  <img src="images/legio-vi-member-magnus.jpg" class="headshot">
+</div>
+<div class="headshot-div">
+  <img src="images/legio-vi-member-dejan.jpg" class="headshot">
+</div>
+<div class="headshot-div">
+  <img src="images/legio-vi-member-stevie.jpg" class="headshot">
+</div>
 <!-- <img src="images/legio-vi-member-jade.jpg" class="headshot"> -->
 
 <h1>Civilians</h1>
-<img src="images/legio-vi-member-laura.jpg" class="headshot">
+
+<div class="headshot-div">
+  <img src="images/legio-vi-member-laura.jpg" class="headshot">
+</div>
 <!-- <img src="images/legio-vi-member-zara.jpg" class="headshot"> -->
 
 <!--
 <h1>Veterans</h1>
-<img src="images/legio-vi-member-dae.jpg" class="headshot">
-<img src="images/legio-vi-member-alex.jpg" class="headshot">
+<div class="headshot-div">
+  <img src="images/legio-vi-member-dae.jpg" class="headshot">
+</div>
+<div class="headshot-div">
+  <img src="images/legio-vi-member-alex.jpg" class="headshot">
+</div>
 -->
 
 m4_include(footer.m4)
