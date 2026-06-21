@@ -1,12 +1,14 @@
 m4_define(ROOT, `')
 m4_include(header.m4)
 
-<p>The Legion undertakes a wide range of activities, researching,
-exploring, reenacting, and teaching many aspects of Roman life.  The
-choice of activity is driven by the members' personal interests, with
-some choosing to present a public display during out events.
+<h1>Activities</h1>
 
-<h2>Military Drills and Tactics</h2>
+<p>The Legion undertakes a wide range of activities, researching,
+exploring, and reenacting many aspects of Roman life.  The choice of
+activity is driven by the members' personal interests, with some
+choosing to present a public display during our events.
+
+<h2 class="project">Military Drills and Tactics</h2>
 
 <p>The Imperial Roman army was an outstanding combat force.  It was
 well trained, armed, and provisioned, but above all, operated using
@@ -20,43 +22,61 @@ javelin; and combat formations for advancing under fire and attacks by
 cavalry.
 
 
-<h2>Food and Cooking</h2>
+<h2 class="project">Food and Cooking</h2>
+
+<p>Food was an important part of Roman life, from slaves to emperors.
+From a basic <i>puls</i> porridge to the most elaborate feasts, there
+was a massive variety in ingredients and preparation.  Some favourite
+flavours are little used today, with the famous <i>garum</i> sauce no
+longer popular and <i>silphium</i> now extinct.  On the other hand,
+some ingredients are ubiquitous today, but were totally unknown in the
+Roman Empire.
+
+<p>See our display of Roman foods, learn about cooking and recipes,
+and explore some unusual flavours.
 
 
-<h2>Medical Treatments and Instruments</h2>
-<h2>Games and Gambling</h2>
-<h2>Textiles</h2>
-<h2>Blacksmithing</h2>
+<h2 class="project">Medical Treatments and Instruments</h2>
 
+<p>Effective medical and surgical treatment often seems like a
+relatively recent development, but the Roman <i>medicus</i> was
+capable of suprisingly sophisticated treatment.  Our medicus displays
+a range of Roman surgical instruments, both general purpose and highly
+specialized, as well as treatments for a wide range of maladies.
 
-<!--
-    + Military drills
-      - Marching
-      - Formations
-      - Combat drills
-    + Medicus
-    + Food and cooking
-      - Ingredients
-      - Dishes
-    + Games and Gambling
-    + Textiles
+<h2 class="project">Games and Gambling</h2>
+
+<img class="project-left-image" src="images/legio-vi-games.jpg">
+
+<p>Roman legionaries spent years deployed far from home, and when not
+on duty, needed something to do!  Games and gambling were common
+passtimes, but the games they played are quite different to those we
+know today.  Some games reflect military tactics, others are
+relatively simple, but regardless, you can learn the rules and play a
+game or two against our experts!
+
+<!-- FIXME
+
+<h2 class="project">Textiles</h2>
       - Spinning
       - Nalbinding
-    + Blacksmithing
+
+<h2 class="project">Metalworking</h2>
       - Anvil
       - Forge
       - Bellows
       - Tools
-    + Leatherworking
-      - Tools
-      - Bags
-    + Woodworking
-      - Workbench
-      - Lathe
-      - Tools
-    + Armouring
-      - Scuta
-      - Pila
+
++ Leatherworking
+  - Tools
+  - Bags
++ Woodworking
+  - Workbench
+  - Lathe
+  - Tools
++ Armouring
+  - Scuta
+  - Pila
 -->
 
 m4_include(footer.m4)
