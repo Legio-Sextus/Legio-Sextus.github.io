@@ -67,6 +67,11 @@ body h1 {
 .social-links {
     float: right;
     font-size: large;
+    text-align: start;
+}
+
+@media (max-width: 740px)  {
+    text-align: end;
 }
 
 .social-links :any-link {
