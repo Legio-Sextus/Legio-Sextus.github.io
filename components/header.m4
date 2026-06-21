@@ -28,6 +28,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="ROOT`style.css'">
+  <script src="menu.js"></script>
 </head>
 
 <body>
@@ -45,7 +46,8 @@
   <h1>Legio VI Victrix</h1>
   <h2>Sydney Australia</h2>
 
-  <div class="menu">
+  <div class="menu-button"><i id="menu-bars" class="fa fa-bars" onclick="menuClick()"></i></div>
+  <div class="menu" id="menu-panel">
     <div class="menu-item"><a href="ROOT`index.html'">Home</a></div>
     <div class="menu-item"><a href="ROOT`activities.html'">Activities</a></div>
     <div class="menu-item"><a href="ROOT`events.html'">Events</a></div>

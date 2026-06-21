@@ -15,6 +15,7 @@ install:
 	mkdir -p target
 	cp -p *.html target/
 	cp -p *.css target/
+	cp -p *.js target/
 	mkdir -p target/images
 	cp -p images/*.jpg target/images/
 	for d in events/*; do \

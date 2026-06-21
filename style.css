@@ -126,6 +126,14 @@ body h1 {
 	padding-right: 5px;
 	margin-bottom: 5px;
     }
+
+    .menu-button  {
+	padding-bottom: 10px;
+    }
+
+    #menu-panel {
+	display: none;
+    }
 }
 
 .menu-item {
