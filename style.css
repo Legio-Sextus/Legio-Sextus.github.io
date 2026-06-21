@@ -71,7 +71,9 @@ body h1 {
 }
 
 @media (max-width: 740px)  {
-    text-align: end;
+    .social-links {
+	text-align: end;
+    }
 }
 
 .social-links :any-link {
