@@ -113,6 +113,10 @@ body h1 {
     clear: both;
 }
 
+.menu-button {
+    display: none;
+}
+
 @media (max-width: 740px) {
     .menu {
 	display: flex;
@@ -128,6 +132,7 @@ body h1 {
     }
 
     .menu-button  {
+	display: block;
 	padding-bottom: 10px;
     }
 
