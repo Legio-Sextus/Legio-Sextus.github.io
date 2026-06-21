@@ -1,3 +1,13 @@
+
+/*
+
+  Media queries are used to adjust the layout for phones (and tablets,
+  to a lesser extent).  Most phones have a viewport width in the
+  360-420 pixel range, while tablets are in the 700-850 range, and
+  laptops/desktops these days have a minimum of 1024 (really, 1280).
+
+*/
+
 .headshot {
     height: 350px;
 }
@@ -8,8 +18,24 @@ body {
     margin-right: 20%;
 }
 
+@media (max-width: 740px) {
+    body {
+	margin: 5px;
+    }
+}
+
 body h1 {
     font-weight: 700;
+}
+
+@media (max-width: 740px) {
+    body h1 {
+	font-size: x-large;
+    }
+
+    body h2 {
+	font-size: medium;
+    }
 }
 
 .hero-image {
@@ -28,8 +54,7 @@ body h1 {
 
 .social-links {
     float: right;
-
-    font-size: 
+    font-size: large;
 }
 
 .social-links :any-link {
@@ -37,9 +62,31 @@ body h1 {
     text-decoration: none;
 }
 
-.header-image {
+@media (max-width: 740px) {
+    .social-text {
+	display: none;
+    }
+}
+
+.header-image-div {
     float: left;
     padding-right: 2em;
+}
+
+@media (max-width: 740px) {
+    .header-image-div {
+	padding-right: 10px;
+    }
+}
+
+.header-image {
+    height: 150px;
+}
+
+@media (max-width: 740px) {
+    .header-image {
+	height: 70px;
+    }
 }
 
 .menu {
@@ -50,12 +97,29 @@ body h1 {
     justify-content: space-around;
     padding-top: 2em;
     padding-bottom: 2em;
+    clear: both;
+}
+
+@media (max-width: 740px) {
+    .menu {
+	display: flex;
+	flex-direction: column;
+	width: 90%;
+	align-items: start;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border: 1px solid;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-bottom: 5px;
+    }
 }
 
 .menu-item {
-    margin-left: 0em;
-    maragin-right: 0em;
+    margin-left: 5px;
+    margin-right: 0em;
 }
+
 
 .menu-item a {
     text-decoration: none;
