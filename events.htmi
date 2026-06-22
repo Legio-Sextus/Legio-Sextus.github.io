@@ -50,15 +50,27 @@ m4_include(header.m4)
 
 <h2>2023</h2>
 
+<h3> Winterfest</h3>
+<div>1-2 July 2023</div>
+<div>Hawkesbury Showgrounds, Claredon NSW</div>
+  
 <h3>Blacktown Medieval Fayre</h3>
 <div>20-21 May 2023</div>
 <div>Nurragingy Reserve, Doonside NSW</div>
 
 <h2>2022</h2>
 
+<h3> Winterfest</h3>
+<div>2-3 July 2022</div>
+<div>Hawkesbury Showgrounds, Claredon NSW</div>
+
 <div>Blacktown cancelled (Twice!) due to wet weather</div>
 
 <h2>2021</h2>
+
+<h3> Winterfest</h3>
+<div>2-3 October 2021</div>
+<div>Hawkesbury Showgrounds, Claredon NSW</div>
 
 <h3>Blacktown Medieval Fayre</h3>
 <div>22-23 May 2021</div>
@@ -71,11 +83,24 @@ m4_include(header.m4)
  
 <h2>2019</h2>
 
+<h3> Winterfest</h3>
+<div>6-7 July 2019</div>
+<div>Hawkesbury Showgrounds, Claredon NSW</div>
+
 <h3>Blacktown Medieval Fayre</h3>
 <div>18-19 May 2019</div>
 <div>Nurragingy Reserve, Doonside NSW</div>
 
 
 <h2>2018</h2>
+
+<h3><a href="events/2018-07-Winterfest/index.html">Winterfest</a></h3>
+<div>7-8 July 2018</div>
+<div>Hawkesbury Showgrounds, Claredon NSW</div>
+
+<h3><a href="events/2018-05-Blacktown/index.html">Blacktown Medieval Fayre</a></h3>
+<div>19-20 May 2018</div>
+<div>Nurragingy Reserve, Doonside NSW</div>
+
 
 m4_include(footer.m4)
