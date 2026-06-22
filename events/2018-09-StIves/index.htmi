@@ -1,0 +1,14 @@
+
+m4_define(ROOT, `../../')
+m4_define(THUMB,`<a class="carousel-thumbnail" href="$1"><img src="$1"></a>')
+
+m4_include(header.m4)
+
+<h1>St Ives Medieval Fair 2018</h1>
+
+<div class="carousel">
+  THUMB(83d0a2264e10b9add7f95e6d79551776b952ff758b999627381064198864d419.jpg)
+  THUMB(e10b094eba9dee96a534a5eb2767e7d2e56c9c863aa821b2511d4364a2c3d8ed.jpg)
+</div>
+
+m4_include(footer.m4)
