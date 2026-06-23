@@ -1,0 +1,12 @@
+m4_define(ROOT, `../../')
+m4_define(THUMB,`<a class="carousel-thumbnail" href="$1"><img src="$1"></a>')
+
+m4_include(header.m4)
+
+<h1>Blacktown Medieval Fayre 2021</h1>
+
+<div class="carousel">
+  THUMB(20210523_151958.jpg)
+</div>
+
+m4_include(footer.m4)
