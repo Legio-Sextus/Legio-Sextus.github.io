@@ -27,7 +27,9 @@ m4_include(header.m4)
 </div>
 
 <h1>Milites</h1>
-<!-- <img src="images/legio-vi-member-dale.jpg" class="headshot"> -->
+<div class="headshot-div">
+  <img src="images/legio-vi-member-dale.jpg" class="headshot">
+</div>
 <div class="headshot-div">
   <img src="images/legio-vi-member-matt.jpg" class="headshot">
 </div>
@@ -43,7 +45,11 @@ m4_include(header.m4)
 <div class="headshot-div">
   <img src="images/legio-vi-member-stevie.jpg" class="headshot">
 </div>
-<!-- <img src="images/legio-vi-member-jade.jpg" class="headshot"> -->
+<!--
+<div class="headshot-div">
+  <img src="images/legio-vi-member-jade.jpg" class="headshot">
+</div>
+-->
 
 <h1>Civilians</h1>
 
@@ -53,6 +59,7 @@ m4_include(header.m4)
 <!-- <img src="images/legio-vi-member-zara.jpg" class="headshot"> -->
 
 <!--
+
 <h1>Veterans</h1>
 <div class="headshot-div">
   <img src="images/legio-vi-member-dae.jpg" class="headshot">
